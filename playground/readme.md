@@ -1,4 +1,4 @@
 ##todo
 
-[] style
-[] style switcher/nes css
+- [] style
+- [] style switcher/nes css
