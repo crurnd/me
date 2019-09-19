@@ -4,5 +4,6 @@ this is my escape from where all playgrounds such as codepen, jsbin, jsfiddle, e
 
 ### todo
 
+- [ ] drag and drop and resize windows
 - [ ] style
 - [ ] style switcher/nes css
